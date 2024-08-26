@@ -1,0 +1,581 @@
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\BookStore.dll.config
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\BookStore.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\BookStore.pdb
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\WebGrease.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\BookStore\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\Admin\Downloads\BookStore\BookStore\obj\Debug\BookStore.dll
+C:\Users\Admin\Downloads\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\BookStore.dll.config
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\BookStore.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\BookStore.pdb
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\WebGrease.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\obj\Debug\BookStore.dll
+C:\Users\Admin\Downloads\web-book\BookStore\BookStore\obj\Debug\BookStore.pdb
+G:\web-book\BookStore\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+G:\web-book\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+G:\web-book\BookStore\BookStore\bin\BookStore.dll.config
+G:\web-book\BookStore\BookStore\bin\BookStore.dll
+G:\web-book\BookStore\BookStore\bin\BookStore.pdb
+G:\web-book\BookStore\BookStore\bin\roslyn\csc.exe
+G:\web-book\BookStore\BookStore\bin\roslyn\csc.exe.config
+G:\web-book\BookStore\BookStore\bin\roslyn\csc.rsp
+G:\web-book\BookStore\BookStore\bin\roslyn\csi.exe
+G:\web-book\BookStore\BookStore\bin\roslyn\csi.exe.config
+G:\web-book\BookStore\BookStore\bin\roslyn\csi.rsp
+G:\web-book\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\web-book\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+G:\web-book\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\web-book\BookStore\BookStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.Console.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.Globalization.Calendars.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.Net.Http.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.Net.Sockets.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\web-book\BookStore\BookStore\bin\roslyn\vbc.exe
+G:\web-book\BookStore\BookStore\bin\roslyn\vbc.exe.config
+G:\web-book\BookStore\BookStore\bin\roslyn\vbc.rsp
+G:\web-book\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+G:\web-book\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+G:\web-book\BookStore\BookStore\bin\Antlr3.Runtime.dll
+G:\web-book\BookStore\BookStore\bin\EntityFramework.dll
+G:\web-book\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+G:\web-book\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\web-book\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+G:\web-book\BookStore\BookStore\bin\Newtonsoft.Json.dll
+G:\web-book\BookStore\BookStore\bin\System.Web.Helpers.dll
+G:\web-book\BookStore\BookStore\bin\System.Web.Mvc.dll
+G:\web-book\BookStore\BookStore\bin\System.Web.Optimization.dll
+G:\web-book\BookStore\BookStore\bin\System.Web.Razor.dll
+G:\web-book\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+G:\web-book\BookStore\BookStore\bin\System.Web.WebPages.dll
+G:\web-book\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+G:\web-book\BookStore\BookStore\bin\WebGrease.dll
+G:\web-book\BookStore\BookStore\bin\EntityFramework.xml
+G:\web-book\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+G:\web-book\BookStore\BookStore\bin\System.Web.Helpers.xml
+G:\web-book\BookStore\BookStore\bin\System.Web.Mvc.xml
+G:\web-book\BookStore\BookStore\bin\System.Web.Optimization.xml
+G:\web-book\BookStore\BookStore\bin\System.Web.Razor.xml
+G:\web-book\BookStore\BookStore\bin\System.Web.WebPages.xml
+G:\web-book\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+G:\web-book\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+G:\web-book\BookStore\BookStore\bin\Newtonsoft.Json.xml
+G:\web-book\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+G:\web-book\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\web-book\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+G:\web-book\BookStore\BookStore\obj\Debug\BookStore.dll
+G:\web-book\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\BookStore.dll.config
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\BookStore.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\BookStore.pdb
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\csc.exe
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\csc.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\csc.rsp
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\csi.exe
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\csi.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\csi.rsp
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.Console.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\vbc.exe
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\vbc.rsp
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\EntityFramework.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\System.Web.Optimization.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\System.Web.WebPages.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\WebGrease.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\EntityFramework.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\System.Web.Optimization.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\System.Web.WebPages.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\obj\Debug\BookStore.dll
+C:\Users\Admin\Documents\Zalo Received Files\web-book(bản thử)\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\BookStore.dll.config
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\BookStore.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\BookStore.pdb
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\csc.exe
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\csc.rsp
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\csi.exe
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\csi.rsp
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\vbc.exe
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\EntityFramework.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Razor.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\WebGrease.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\EntityFramework.xml
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Razor.xml
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\obj\Debug\BookStore.csproj.Up2Date
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\obj\Debug\BookStore.dll
+C:\Users\ASUS\Downloads\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\BookStore.dll.config
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\BookStore.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\BookStore.pdb
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\csc.exe
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\csc.exe.config
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\csc.rsp
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\csi.exe
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\csi.exe.config
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\csi.rsp
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Console.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Globalization.Calendars.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Net.Http.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Net.Sockets.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\vbc.exe
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\vbc.exe.config
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\vbc.rsp
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\Antlr3.Runtime.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\EntityFramework.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\Newtonsoft.Json.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Helpers.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Mvc.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Optimization.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Razor.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.WebPages.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\WebGrease.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\EntityFramework.xml
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Helpers.xml
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Mvc.xml
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Optimization.xml
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Razor.xml
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.WebPages.xml
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\Newtonsoft.Json.xml
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\obj\Debug\BookStore.csproj.Up2Date
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\obj\Debug\BookStore.dll
+D:\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\BookStore.dll.config
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\BookStore.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\BookStore.pdb
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\csc.exe
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\csc.exe.config
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\csc.rsp
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\csi.exe
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\csi.exe.config
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\csi.rsp
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Console.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Globalization.Calendars.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Net.Http.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Net.Sockets.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\vbc.exe
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\vbc.exe.config
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\vbc.rsp
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\Antlr3.Runtime.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\EntityFramework.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\Newtonsoft.Json.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Helpers.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Mvc.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Optimization.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Razor.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.WebPages.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\WebGrease.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\EntityFramework.xml
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Helpers.xml
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Mvc.xml
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Optimization.xml
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.Razor.xml
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.WebPages.xml
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\Newtonsoft.Json.xml
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\obj\Debug\BookStore.csproj.Up2Date
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\obj\Debug\BookStore.dll
+D:\HỌC TẠP\Đồ án MTK-20240507T134935Z-001\Đồ án MTK\web-book\BookStore\BookStore\obj\Debug\BookStore.pdb

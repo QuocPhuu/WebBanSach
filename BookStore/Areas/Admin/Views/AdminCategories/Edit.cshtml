@@ -1,0 +1,48 @@
+﻿@model BookStore.Models.Category
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/Admin_Layout.cshtml";
+}
+
+<h2 style="text-align:center">Cập nhật danh mục</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.CategoryID)
+
+        <div class="form-group">
+            <h6 style="margin-left:17px;">Tên danh mục: </h6>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CategoryName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.CategoryName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <h6 style="margin-left:17px;">Ảnh danh mục: </h6>
+            <div class="col-md-10">
+
+                <img id="blah" src="~/image/@Model.CategoryImage" alt="" width="200px" height="50px" /> <br />
+                <input accept="image/*" type='file' id="imgInp" name="CategoryImage" />
+                @Html.ValidationMessageFor(model => model.CategoryImage, "", new { @class = "text-danger" })
+
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Lưu" class="btn btn-success" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Quay lại", "Index")
+</div>
